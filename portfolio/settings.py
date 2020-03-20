@@ -25,7 +25,7 @@ SECRET_KEY = 'dzh0w$8v&0w^4d#tz4fhh*!nvp91p-=f)wsa$yckzyhzcn2s5x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , '.timoklinge.com']
+ALLOWED_HOSTS = ['127.0.0.1' , 'splaxter.pythonanywhere,com']
 
 
 # Application definition
